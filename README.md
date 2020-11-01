@@ -1,2 +1,2 @@
 # Learn
-This repo created for learning
+This repo is created for learning purpose only
